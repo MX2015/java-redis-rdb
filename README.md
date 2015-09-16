@@ -1,7 +1,8 @@
 #java-redis-rdb#
 
 parse redis dump.rdb file
-
+ 使用redis-rdb-tools解析reids dump.rdb文件及分析内存使用量
+ http://space.wudiweb.com/phychion/blog/95
 High Level Algorithm to parse RDB
 ==========
 示例代码如下:
